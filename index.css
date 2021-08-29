@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Kaisei+HarunoUmi:wght@500&family=Rampart+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Shadows+Into+Light&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+#column {
+  background-color: #e0e1dd;
+  width: auto;
+  padding: 200px;
+}
+
+#logo {
+  width: 1200px;
+  height: auto;
+}
+
+body {
+  text-align: center;
+  background-color: #e9ecef;
+}
+
+h1 {
+  color: #22223b;
+  font-family: "Shadows Into Light", cursive;
+}
+
+p {
+  font-family: "Kaisei HarunoUmi", serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25em;
+}
+
+p {
+  font-size: 24px;
+}
+
+#twice {
+  background-color: #0a9396;
+  font-size: 70px;
+}
+
+#unique {
+  background-color: #4361ee;
+  font-size: 100px;
+}
+
+#four {
+  background-color: #06d6a0;
+  font-size: 70px;
+}
+
+#five {
+  background-color: #e0e1dd;
+  width: auto;
+  padding: 200px;
+}
+
+#six {
+  background-color: #e0e1dd;
+  width: auto;
+  padding: 200px;
+}
